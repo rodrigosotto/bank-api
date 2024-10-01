@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+
+# Coverage
+coverage/
+*.lcov
+
+# IDEs and Editors
+.idea/
+.vscode/
+.DS_Store
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
