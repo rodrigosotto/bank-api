@@ -3,12 +3,6 @@
 
 Este projeto é uma API de administração de movimentações de saldos entre clientes, construída com Node.js, Express e MySQL. Ele permite criar contas, transferir fundos entre contas e visualizar a lista de contas e transações. Além disso, há integração com WebSockets para notificações em tempo real sobre transferências de fundos.
 
-Tecnologias Utilizadas
-Node.js: Ambiente de execução JavaScript.
-Express: Framework para construção de APIs em Node.js.
-MySQL: Banco de dados relacional para armazenar informações das contas e transações.
-Socket.io: Comunicação em tempo real via WebSockets para notificações.
-dotenv: Gerenciamento de variáveis de ambiente.
 ## Tecnologias Utilizadas
 
 - Node.js: Ambiente de execução JavaScript.
