@@ -31,8 +31,7 @@ DB_NAME=banking_db
 
 PORT=3000
 
-### 4 - Configure o banco de dados MySQL:
- - CREATE DATABASE banking_db;
+### 4 - IMPORTE O DUMP DO BANCO DE DADOS
 
 ### 5 - Execute o servidor:
  - npm run dev
